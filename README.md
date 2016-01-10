@@ -1,2 +1,2 @@
-# articleFiles
-All Files associated with articles I write
+# Article Files
+This repository contains files associated with articles I write.
